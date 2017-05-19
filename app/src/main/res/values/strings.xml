@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task Planer</string>
+    <string name="task_title_hint">enter task</string>
+    <string name="task_title_label">Task Name</string>
+    <string name="task_date_label">Task Date</string>
+    <string name="task_details_label">Task Details</string>
+    <string name="task_solved_label">Completed</string>
+    <string name="date_picker_title">Date: </string>
+    <string name="time_picker_title">Time:</string>
+</resources>
